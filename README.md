@@ -25,4 +25,22 @@ This project is designed to help beginners understand the fundamentals of deep l
 ---
 
 ## 📂 Project Structure
+📦 Handwritten-Digit-Classifier
+┣ 📜 main.ipynb # Main Jupyter Notebook
+┣ 📜 README.md # Project documentation
+┗ 📂 data/ # Automatically downloaded MNIST dataset
+
+
+---
+
+## ⚙️ How to Run
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/Handwritten-Digit-Classifier.git
+cd Handwritten-Digit-Classifier
+```
+
+### 2. Install dependencies
+pip install torch torchvision matplotlib
 
