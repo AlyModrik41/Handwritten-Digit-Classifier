@@ -13,6 +13,8 @@ This project is designed to help beginners understand the fundamentals of deep l
 - 🧠 Achieves around **97–98% test accuracy**
 - 🖼️ Visualizes real handwritten digits and the model’s predictions
 - 💡 Perfect as a **beginner deep learning project**
+- 🖼️ Model predictions on unseen MNIST test images — each title shows the predicted and true digit.
+- <img width="670" height="390" alt="download" src="https://github.com/user-attachments/assets/58d0590c-9f62-4d99-b8ff-9cc33254e8a7" />
 
 ---
 
